@@ -1,8 +1,9 @@
-# COMPARING THE SIZES OF THE PLANETS
+COMPARING THE SIZES OF THE PLANETS
 
-## Welcome to my project. After doing this project I have learned some skills that I never thought I could learn. My project uses two similar datasets that look similar but use different datatypes to present data to the user. I used these two datasets to compare the sizes of the planets in the solar system. I felt like I had to use Pluto because I have always wished they would restore it as a planet. I used the information in the datasets to compare the planets based on the diameter of each. You will clearly see that some planets are vastly bigger than others. Other than that, this project doesn't do much. It's as simple as it gets.
+Welcome to my project. After doing this project I have learned some skills that I never thought I could learn. My project uses two similar datasets that look similar but use different datatypes to present data to the user. I used these two datasets to compare the sizes of the planets in the solar system. I felt like I had to use Pluto because I have always wished they would restore it as a planet. I used the information in the datasets to compare the planets based on the diameter of each. You will clearly see that some planets are vastly bigger than others. Other than that, this project doesn't do much. It's as simple as it gets.
 
-## CSV files used for this project:
+CSV files used for this project:
+
 planets.csv
 planets1.csv
 
@@ -43,8 +44,8 @@ Create a virtual machine by doing the following:
 Install the required packages from the requirements.txt file
 
 
+Requirements Met:
 
-## Requirements Met:
 Feature 1 -- Read in two csv files to create dataframe
 Feature 2 -- Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 Feature 3 -- Make 3 matplotlib or seaborn
